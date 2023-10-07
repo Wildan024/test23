@@ -1,0 +1,29 @@
+.parallax-container{
+    height: 300px;
+}
+
+.parallax img {
+    filter: blur(8px);
+    -webkit-filter:blur(4px) ;
+}
+
+.parallax-container{
+    height: 20%;
+}
+
+
+.customer img{
+    max-width:150px ;
+    filter: drop-shadow(1px 1px 1px rgba (0,0,0,0.9));
+}
+
+
+
+section { 
+    padding: 20px 0;
+}
+
+footer {
+    padding: 1px 0;
+}
+
